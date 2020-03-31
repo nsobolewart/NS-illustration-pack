@@ -1,4 +1,4 @@
-# NS-illustration-pack
+# NS illustration pack
 
 Hello everyone, my name is Nikolai Sobolev, I am engaged in creating a low poly illustration in blender and decided to create an open-source illustration pack.
 
