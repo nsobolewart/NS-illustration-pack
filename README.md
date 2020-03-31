@@ -6,12 +6,19 @@ This pack includes about 20 illustrations (not counting the variations), some of
 
 This pack is distributed under the MIT license, it can be used for personal and commercial purposes without any restrictions and requirements to indicate my authorship!
 
+You can download the pack from the links:
+
+[PNG files only](https://github.com/nsobolewart/NS-illustration-pack/releases/download/1/NS_illustration_pack_v1_png.zip)
+
+[Source Blend and PNG files](https://github.com/nsobolewart/NS-illustration-pack/releases/download/1/NS_illustration_pack_v1_blend_png.zip)
+
+
 I hope he will be useful to someone!
 
 You can find me at the links:
-[Dribbble](https://dribbble.com/nsobolew)
-[Instagram](https://www.instagram.com/nsobolewart)
-[Twitter](https://twitter.com/nsobolewart)
+[Dribbble](https://dribbble.com/nsobolew),
+[Instagram](https://www.instagram.com/nsobolewart),
+[Twitter](https://twitter.com/nsobolewart),
 [Reddit](https://www.reddit.com/user/nsobolew)
 
 I will be glad if you write me your opinion about this pack!
